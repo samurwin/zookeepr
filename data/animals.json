@@ -117,6 +117,47 @@
         "hungry"
       ],
       "id": "11"
+    },
+    {
+      "name": "Harry",
+      "species": "hippo",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "hungry",
+        "zany"
+      ],
+      "id": "12"
+    },
+    {
+      "name": "Harry",
+      "species": "hippo",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "hungry",
+        "zany"
+      ],
+      "id": "13"
+    },
+    {
+      "name": "Harry",
+      "species": "hippo",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "hungry",
+        "zany"
+      ],
+      "id": "14"
+    },
+    {
+      "name": "Sam",
+      "species": "tiger",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "anxious",
+        "loving",
+        "goofy"
+      ],
+      "id": "15"
     }
   ]
 }
